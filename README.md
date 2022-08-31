@@ -1,2 +1,2 @@
 # JWD-Classwork
-Assignments done during Jr. Web Development Live
+Assignments done during Jr. Web Development
